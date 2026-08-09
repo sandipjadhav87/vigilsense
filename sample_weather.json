@@ -1,0 +1,8 @@
+{
+  "temperature": 29,
+  "humidity": 88,
+  "wind_speed": 34,
+  "rainfall": 2,
+  "storm": false,
+  "recommendation": "LOW"
+}
